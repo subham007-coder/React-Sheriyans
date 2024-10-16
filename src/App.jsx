@@ -3,7 +3,7 @@ import "./index.css";
 import Card from "./Components/Card";
 
 function App() {
-  
+
   const people = [
     {
       name: "Amit Sharma",
